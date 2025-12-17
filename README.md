@@ -28,12 +28,15 @@ Olá! Eu me chamo **Ana Heloísa**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=tokyonight&layout=compact" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight"
+  />
+  <img
+    width="335"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=tokyonight&layout=compact"
+  />
 </p>
