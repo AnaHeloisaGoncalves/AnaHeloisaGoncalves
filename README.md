@@ -30,7 +30,7 @@ Olá! Eu me chamo **Ana Heloísa**.
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
+<p>
   <img
     width="400"
     src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight"
