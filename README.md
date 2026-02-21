@@ -48,7 +48,7 @@ Esse projeto foi fundamental para consolidar meus conhecimentos em:
 - Programação orientada a objetos
 - Estruturação de aplicações back-end
 - Modelagem e relacionamento de tabelas
-- Consumo e teste de endpoints com ferramentas como Postman
+- Consumo e teste de endpoints
 
 *(Em breve adicionarei novas funcionalidades e melhorias ao projeto.)*
 
@@ -59,11 +59,11 @@ Esse projeto foi fundamental para consolidar meus conhecimentos em:
 <p>
   <img 
     width="400"
-    src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight&cache_seconds=300"
   />
   <img
     width="335"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=tokyonight&layout=compact&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=tokyonight&layout=compact&cache_seconds=300"
   />
 </p>
 
