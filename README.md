@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 Estudante de Sistemas de Informação - IBMR <br>
-💻 Focada em Desenvolvimento e Tecnologia <br>
 🎯 Buscando oportunidade de estágio em TI
 </p>
 
@@ -11,35 +10,46 @@
 ## 👋 Sobre mim
 
 Olá! Me chamo **Ana Heloísa** e atualmente curso **Sistemas de Informação** no Centro Universitário **IBMR**.
-
-Tenho interesse em desenvolvimento de software, banco de dados e tecnologia em geral.  
-Estou em constante aprendizado e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e evoluir profissionalmente.
+  
+Estou em constante evolução e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer profissionalmente na área de tecnologia.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
 </p>
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 🛠️ Projeto em Destaque
 
-- 🛒 **Neko Store**  
-  E-commerce em desenvolvimento utilizando HTML, CSS e JavaScript.
+### 📌 API REST com Java + Spring Boot + MySQL
 
-- 📚 Projetos acadêmicos  
-  Aplicações em Java e modelagem de banco de dados com MySQL.
+Projeto acadêmico desenvolvido com foco em construção de uma API REST utilizando **Spring Boot**, aplicando conceitos de:
 
-*(Em breve mais projetos completos e documentados.)*
+- Arquitetura em camadas (Controller, Service, Repository)
+- Mapeamento objeto-relacional com JPA / Hibernate
+- Integração com banco de dados MySQL
+- Operações CRUD completas
+- Organização e versionamento com Git
+
+A aplicação realiza o gerenciamento de entidades no banco de dados, permitindo criação, listagem, atualização e remoção de registros via requisições HTTP.
+
+Esse projeto foi fundamental para consolidar meus conhecimentos em:
+- Programação orientada a objetos
+- Estruturação de aplicações back-end
+- Modelagem e relacionamento de tabelas
+- Consumo e teste de endpoints com ferramentas como Postman
+
+*(Em breve adicionarei novas funcionalidades e melhorias ao projeto.)*
 
 ---
 
