@@ -30,7 +30,7 @@ Estou em constante evolução e busco minha primeira oportunidade de estágio pa
 
 ---
 
-## 🛠️ Projeto em Destaque
+## 🛠️ Projeto em destaque
 
 ### 📌 API REST com Java + Spring Boot + MySQL
 
