@@ -54,22 +54,6 @@ Esse projeto foi fundamental para consolidar meus conhecimentos em:
 
 ---
 
-## 📊 Estatísticas GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AnaHeloisaGoncalves&show_icons=true&theme=tokyonight" 
-    height="170"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaHeloisaGoncalves&theme=tokyonight&layout=compact&cache_seconds=300" 
-    height="170"
-  />
-</p>
-
----
-
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:study.aninha6@gmail.com)
