@@ -58,8 +58,7 @@ Esse projeto foi fundamental para consolidar meus conhecimentos em:
 
 <p>
   <img 
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=tokyonight&cache_seconds=300"
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaHeloisaGoncalves)](https://github.com/anuraghazra/github-readme-stats)
   />
   <img
     width="335"
