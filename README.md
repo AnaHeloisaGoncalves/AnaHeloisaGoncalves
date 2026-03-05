@@ -1,5 +1,4 @@
 <h1 align="center">👩🏻‍💻 Ana Heloísa</h1>
-
 <p align="center">
 🎓 Estudante de Sistemas de Informação - IBMR <br>
 🎯 Buscando oportunidade de estágio em TI
@@ -10,7 +9,7 @@
 ## 👋 Sobre mim
 
 Olá! Me chamo **Ana Heloísa** e atualmente curso **Sistemas de Informação** no Centro Universitário **IBMR**.
-  
+
 Estou em constante evolução e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer profissionalmente na área de tecnologia.
 
 ---
@@ -25,32 +24,40 @@ Estou em constante evolução e busco minha primeira oportunidade de estágio pa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" /> <img
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
 </p>
 
 ---
 
 ## 🛠️ Projeto em destaque
 
-### 📌 API REST com Java + Spring Boot + MySQL
+### 🛒 API REST — Loja Online com Java + Spring Boot + MySQL
 
-Projeto acadêmico desenvolvido com foco em construção de uma API REST utilizando **Spring Boot**, aplicando conceitos de:
+Projeto acadêmico que simula o **fluxo completo de uma loja online**, desenvolvido com foco em boas práticas de back-end e organização de código.
 
+**Funcionalidades implementadas:**
+- 👤 Cadastro de clientes e produtos
+- 📦 Criação de pedidos com **controle de estoque automático**
+- ❌ Cancelamento de pedidos com **estorno de estoque**
+- 🗑️ Soft delete de produtos
+- ✅ Validações de dados de entrada com respostas de erro claras
+- 📖 Documentação interativa com **Swagger (OpenAPI)**
+
+**Tecnologias utilizadas:**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Conceitos aplicados:**
 - Arquitetura em camadas (Controller, Service, Repository)
 - Mapeamento objeto-relacional com JPA / Hibernate
-- Integração com banco de dados MySQL
+- Regras de negócio com controle transacional
+- Validação com Spring Boot Validation
 - Operações CRUD completas
-- Organização e versionamento com Git
-
-A aplicação realiza o gerenciamento de entidades no banco de dados, permitindo criação, listagem, atualização e remoção de registros via requisições HTTP.
-
-Esse projeto foi fundamental para consolidar meus conhecimentos em:
-- Programação orientada a objetos
-- Estruturação de aplicações back-end
-- Modelagem e relacionamento de tabelas
-- Consumo e teste de endpoints
-
-*(Em breve adicionarei novas funcionalidades e melhorias ao projeto.)*
+- Versionamento com Git
 
 ---
 
