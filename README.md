@@ -1,68 +1,52 @@
-<h1 align="center">👩🏻‍💻 Ana Heloísa</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bb86fc&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub+💜" />
+</h1>
+
+## 👩🏻‍💻 Sobre mim
+
+Olá! Me chamo **Ana Heloísa** ✨  
+
+Atualmente curso **Sistemas de Informação** no **IBMR** e estou em constante evolução na área de tecnologia.
+
+🎯 Busco minha **primeira oportunidade de estágio** para aplicar meus conhecimentos na prática e crescer profissionalmente.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,html,css,js,c&theme=dark"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=midnight-purple&layout=compact"/>
+</div>
+
+---
+
+## 📈 Atividade
+
 <p align="center">
-🎓 Estudante de Sistemas de Informação - IBMR <br>
-🎯 Buscando oportunidade de estágio em TI
-</p>
-
----
-
-## 👋 Sobre mim
-
-Olá! Me chamo **Ana Heloísa** e atualmente curso **Sistemas de Informação** no Centro Universitário **IBMR**.
-
-Estou em constante evolução e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer profissionalmente na área de tecnologia.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
-</p>
-
----
-
-## 🛠️ Projeto em destaque
-
-### 🛒 API REST — Loja Online com Java + Spring Boot + MySQL
-
-Projeto acadêmico que simula o **fluxo completo de uma loja online**, desenvolvido com foco em boas práticas de back-end e organização de código.
-
-**Funcionalidades implementadas:**
-- 👤 Cadastro de clientes e produtos
-- 📦 Criação de pedidos com **controle de estoque automático**
-- ❌ Cancelamento de pedidos com **estorno de estoque**
-- 🗑️ Soft delete de produtos
-- ✅ Validações de dados de entrada com respostas de erro claras
-- 📖 Documentação interativa com **Swagger (OpenAPI)**
-
-**Tecnologias utilizadas:**
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-**Conceitos aplicados:**
-- Arquitetura em camadas (Controller, Service, Repository)
-- Mapeamento objeto-relacional com JPA / Hibernate
-- Regras de negócio com controle transacional
-- Validação com Spring Boot Validation
-- Operações CRUD completas
-- Versionamento com Git
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaheloisagoncalves&bg_color=0d1117&color=bb86fc&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
+</p> 
 
 ---
 
 ## 📬 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaheloisahgoncalves@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaheloisagoncalves)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_.anaheloisa/)
+<p>
+  <a href="mailto:anaheloisahgoncalves@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anaheloisagoncalves" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/eu_.anaheloisa/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
