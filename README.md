@@ -30,7 +30,7 @@ Atualmente curso **Sistemas de Informação** no **IBMR** e estou em constante e
 
 ## 📈 Atividade
 
-<p align="center>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaheloisagoncalves&bg_color=0d1117&color=bb86fc&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
 </p> 
 
