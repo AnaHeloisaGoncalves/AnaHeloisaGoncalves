@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=bb86fc&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub+💜" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bb86fc&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+💜" />
 </h1>
 
 ## 👩🏻‍💻 Sobre mim
