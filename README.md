@@ -21,10 +21,9 @@ Atualmente curso **Sistemas de Informação** no **IBMR** e estou em constante e
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=midnight-purple&layout=compact"/>
+  <img width="49%" src="https://github-readme-stats-rocnnxtj4-anaheloisagoncalves-projects.vercel.app/api?username=anaheloisagoncalves&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-rocnnxtj4-anaheloisagoncalves-projects.vercel.app/api/top-langs/?username=anaheloisagoncalves&theme=midnight-purple&layout=compact"/>
 </div>
 
 ---
